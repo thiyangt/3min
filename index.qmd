@@ -176,7 +176,7 @@ The audience should remember:
 
     - One message
     
-### UQ Rules
+## UQ Rules
 
  - Presentations are limited to 3 minutes maximum and competitors exceeding 3 minutes are disqualified.
 
@@ -491,3 +491,7 @@ People naturally follow lines, paths, and directions.
 Design Tip
 
 Use arrows, pathways, or visual flow to guide attention.
+
+# Presentation Judging Criteria
+
+[https://3mt.ku.edu/3MTRules](https://3mt.ku.edu/3MTRules)
