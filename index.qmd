@@ -7,6 +7,10 @@ format:
     theme: [default, styles.scss]
     width: 1280
     height: 720
+    slide-number: true
+    title-slide-attributes: 
+      data-background-color: "#800026"
+      data-background-image: none
 ---
 
 ::: {.fragment .big-text}
@@ -256,7 +260,7 @@ Consequently
 
 In conclusion (often overused in short talks)
 
-# overly academic or rigid phrasing
+# Overly academic or rigid phrasing
 
 These sound like journal writing, not speaking:
 
@@ -396,3 +400,76 @@ Liiiiii
 Loooooo
 
 Luuuuuu
+
+# Projection Exercise
+
+Imagine speaking to:
+
+Someone 1 meter away
+
+Someone at the back of the room
+
+Someone in the last row of an auditorium
+
+# Speaker Warm-Up
+
+Red leather, yellow leather.
+
+Unique New York.
+
+Big black bugs bleed blue black blood.
+
+Toy boat, toy boat, toy boat.
+
+Clear Consonants
+
+# Repeat slowly, then faster:
+
+Pa Pa Pa Pa Pa
+
+Ba Ba Ba Ba Ba
+
+Ta Ta Ta Ta Ta
+
+Da Da Da Da Da
+
+Ka Ka Ka Ka Ka
+
+Ga Ga Ga Ga Ga
+
+# Slide Design for 3-Minute Talks: Using Gestalt Principles
+
+Why Gestalt Principles?
+
+The audience sees your slide for only a few seconds before deciding:
+
+What is important?
+
+What belongs together?
+
+## 1. Figure–Ground Principle
+
+People naturally separate:
+
+The main object (figure)
+
+The background (ground)
+
+## 2. Similarity Principle
+
+Objects with similar:
+
+Shape
+
+Colour
+
+Size
+
+
+## 3. Continuity Principle
+
+People naturally follow lines, paths, and directions.
+
+Design Tip
+
+Use arrows, pathways, or visual flow to guide attention.
