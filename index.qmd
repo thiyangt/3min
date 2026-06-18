@@ -1,0 +1,398 @@
+---
+title: "Winning a 3-Minute Talk"
+subtitle: "Structure, Story, and Impact"
+author: "Dr. Thiyanga S. Talagala<br>Department of Statistics, University of Sri Jayewardenepura"
+format:
+  revealjs: 
+    theme: [default, styles.scss]
+    width: 1280
+    height: 720
+---
+
+::: {.fragment .big-text}
+Why a 3-minute talk?
+:::
+
+::: {.fragment .big-text}
+Who invented it?
+:::
+
+::: {.fragment .big-text}
+What was the purpose?
+:::
+
+
+
+# Why a 3-minute talk?
+
+
+::: {.fragment .medium-text}
+
+Many researchers can explain the <span style="color:blue;">details</span>. clearly, but struggle to communicate the <span style="color:red;">big picture</span>.
+
+:::
+
+#
+
+::: columns
+
+::: column
+## Big Picture
+
+- Elephant satellite neck belts (or GPS collars) are heavy-duty tracking devices worn around the neck to monitor elephant movements.
+
+- Using elephant movement data to guide conservation actions and reduce risk to wildlife during extreme climate events like El Niño.
+
+:::
+
+::: column
+
+## Details
+
+- Statistics  
+- Models  
+- Trajectory Analysis  
+- Spatial Analysis  
+:::
+
+:::
+
+# Who invented it?
+
+Universities noticed:
+
+  - Research was becoming too technical
+  - Public impact was weak
+  - Even other academics struggled to understand work outside their field
+  
+
+::: {.fragment .small-text}
+<span style="color:blue;"> The 3-minute talk was created as a **research communication training tool** at the University of Queensland (2008) to help researchers explain complex ideas clearly, quickly, and to non-specialists.</span>
+:::
+
+# What was the purpose?
+
+1. **Improve research communication** by helping researchers explain complex ideas clearly to non-experts.
+
+2. **Improve clarity of thinking** by forcing researchers to focus on the core idea, not just technical details.
+
+3. **Bridge academia and the public** by making research more accessible, understandable, and impactful for society.
+
+# First 15 Seconds Matter
+
+- Research shows audiences decide whether to listen within seconds.
+
+
+::: {.fragment}
+
+ - Avoid:
+ 
+    "Good morning everyone..."
+  
+    "Today I am going to talk about..."
+
+
+:::
+
+::: {.fragment .medium-text}
+
+
+Instead, start with a hook.
+
+:::
+
+# What is a Hook?
+
+A hook is used at the beginning of a presentation to:
+
+1. Capture Attention
+
+People decide very quickly whether they want to listen. A strong hook grabs their attention from the start.
+
+2. Create Interest
+
+It makes the audience curious about your topic and encourages them to hear more.
+
+3. Introduce the Problem
+
+A hook often leads naturally into the issue or challenge you are addressing.
+
+4. Establish Relevance
+
+It helps the audience understand why the topic matters to them or to society.
+
+5. Set the Tone
+
+The hook establishes the mood of your presentation—serious, inspiring, surprising, or thought-provoking.
+
+
+
+## Hook
+
+
+1. Start with a Surprising Statistic
+
+    Every year, millions of tons of plastic waste enter our oceans.
+    
+2. Ask a Question
+    
+    What if a single manufacturing defect could cause an entire production line to fail? 
+    
+
+3. Show an object or image.
+ 
+## Managing the 3 Minutes
+
+
+Problem: 1 min
+
+Solution: 1 min
+
+Impact: 1 min
+
+
+## Tips
+
+Capturing attention quickly
+
+Explaining a problem clearly
+
+Convincing the audience that the solution matters
+
+## What should the audience remember after 3 minutes?
+
+A strong 3MT is not about saying everything.
+It is about making the audience understand one important idea clearly and remember it.
+
+The audience should remember:
+
+    - One problem
+
+    - One solution
+
+    - One message
+
+## Revise and Practice
+
+A great 3-minute talk is built through rehearsal.
+
+  - Read your talk aloud multiple times
+
+  - Read your script aloud (not silently)
+  
+  - Record yourself and listen critically
+
+  - Time yourself strictly—3 minutes is short
+  
+  - Practice with people outside your field
+    
+    Ask: “Did they understand the main idea?”
+    
+## Feedback Questions to Ask
+
+  - Was my message clear?
+
+  - Did I sound engaging?
+
+  - Was anything confusing or too technical?
+
+  - Did I finish within 3 minutes?
+  
+## Deliver with Energy and Engagement
+
+  - Speak in an enthusiastic and confident tone
+
+  - Show genuine interest in your topic
+
+  - Your energy helps the audience stay engaged
+  
+## Word Choice (What you say)
+
+Use language that is:
+
+  - Simple
+
+  - Direct
+
+  - Easy to understand
+
+## Good practices
+
+ - Use short sentences (10–20 words)
+
+ - Prefer active voice
+
+ - Avoid unnecessary jargon
+ 
+## Language to Avoid
+
+  - “Obviously…” (can sound dismissive)
+
+  - Overly formal academic connectors (therefore, hence, thus)
+
+  - Heavy jargon without explanation
+
+  - Long, complex sentences
+
+  - Idioms that may confuse non-native speakers
+  
+# Words and Phrases to Avoid in Spoken Presentations
+
+## Formal academic connectors
+
+These make speech sound written and unnatural:
+
+Therefore
+
+Hence
+
+Thus
+
+Moreover
+
+Furthermore
+
+Consequently
+
+In conclusion (often overused in short talks)
+
+# overly academic or rigid phrasing
+
+These sound like journal writing, not speaking:
+
+“It can be observed that…”
+
+“It is evident that…”
+
+“As previously mentioned…”
+
+“The aforementioned…”
+
+“In the present study…”
+
+## Dismissive or alienating words
+
+These can make the audience feel excluded or “talked down to”:
+
+ - Obviously
+
+- Clearly (when used to assume agreement)
+
+- As you all know
+
+- In order to
+
+## Filler academic habits
+
+These interrupt natural flow:
+
+ - “Basically…”
+
+ - “In fact…” 
+
+ - “Actually…” 
+
+ - “So basically what I am trying to say is…”
+ 
+## Instead of formal connectors, use:
+
+Short pauses
+
+Simple transitions like:
+
+  “So…”
+  
+  “This means…”
+  
+  “What this shows is…”
+  
+  “Now the problem is…”
+  
+## Written Text OR Oral Presentation Style ?
+
+ - Oral communication presents many benefits.
+
+ - It is a quick and direct method of communication.	
+
+ - Be it criticism, praise, or information, oral communication conveys the message immediately to the receiver.	
+
+ - Moreover, oral communication elicits immediate feedback and hence enables a two-way communication.	
+
+# Oral Presentation Style
+
+
+ - Oral communication presents many benefits.	<span style="color:red;"> Oral communication has many benefits.</span>
+
+- It is a quick and direct method of communication.	<span style="color:red;"> It is quick and direct.</span>
+
+ - Be it criticism, praise, or information, oral communication conveys the message immediately to the receiver.	<span style="color:red;"> Whether we are criticizing, praising, or sharing information, we can deliver the message immediately.</span>
+
+- Moreover, oral communication elicits immediate feedback and hence enables a two-way communication.	<span style="color:red;"> Also, we get immediate feedback, so it becomes a two-way communication.</span>
+
+
+# Your Turn
+
+
+- Plastics are a type of polymer widely used in daily life.	
+
+- They are lightweight and durable materials.
+
+- Because of these properties, plastics are used in packaging, bottles, and containers.
+
+- However, plastics can cause environmental pollution if not managed properly.	
+
+
+# Help
+
+- Plastics are a type of polymer widely used in daily life.		<span style="color:red;"> Plastics are a common type of polymer we use every day.</span>
+
+- They are lightweight and durable materials.		<span style="color:red;">They are light and strong materials.</span>
+
+- Because of these properties, plastics are used in packaging, bottles, and containers.		<span style="color:red;"> That’s why we use them in packaging, bottles, and containers.</span>
+
+- However, plastics can cause environmental pollution if not managed properly.		<span style="color:red;"> But if we don’t manage them well, they can cause environmental pollution.</span>
+
+# Your Turn
+
+
+ - Polymers are large molecules composed of repeating structural units called monomers.	
+
+ - These monomers are chemically bonded together to form long chains.	
+
+ - The properties of a polymer depend on its molecular structure and arrangement.
+
+ - Therefore, by modifying the structure, we can tailor materials for specific applications.	
+
+
+# Help
+
+
+Polymers are large molecules composed of repeating structural units called monomers.	<span style="color:red;">Polymers are large molecules made up of repeating units called monomers.</span>
+
+These monomers are chemically bonded together to form long chains.	<span style="color:red;">These monomers join together to form long chains.</span>
+
+The properties of a polymer depend on its molecular structure and arrangement.<span style="color:red;">	A polymer’s properties depend on its structure and how the chains are arranged.</span>
+
+Therefore, by modifying the structure, we can tailor materials for specific applications.	<span style="color:red;"> So by changing the structure, we can design materials for different uses.</span>
+
+# Watch Videos of Good Speakers
+
+ - What do you notice about the speaker’s delivery?
+
+ - How does the speaker use pace, tone, movement and body language?
+
+- What do they do with their hands?
+
+# Articulation Practice
+
+Open your mouth fully and exaggerate the sounds:
+
+Laaaaaa
+
+Leeeeee
+
+Liiiiii
+
+Loooooo
+
+Luuuuuu
