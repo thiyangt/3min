@@ -82,6 +82,33 @@ Universities noticed:
 
 3. **Bridge academia and the public** by making research more accessible, understandable, and impactful for society.
 
+
+
+##  Original technical idea (research level)
+“We developed a spatio-temporal hierarchical Bayesian model using climatic variables, population density, and lagged incidence data to forecast dengue outbreaks.”
+
+## Transition from Technical Detail to Core Idea to Public Meaning
+
+1. Improve research communication (clear explanation)
+
+“We built a model that predicts dengue outbreaks by combining weather data, population information, and past dengue cases.”
+
+2. Improve clarity of thinking (core idea focus)
+
+“We are trying to answer a simple question: Where and when will dengue outbreaks happen next?”
+
+3. Bridge academia and the public (accessible message)
+
+“This system helps health authorities get early warnings about dengue risk so they can take action before outbreaks spread.”
+
+## What changed?
+
+Removed heavy statistical jargon
+
+Focused on the problem, not the method
+
+Shifted from model details → real-world meaning → societal impact
+
 # First 15 Seconds Matter
 
 - Research shows audiences decide whether to listen within seconds.

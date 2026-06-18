@@ -14,6 +14,27 @@
     "text": "Details\n\nStatistics\n\nModels\n\nTrajectory Analysis\n\nSpatial Analysis"
   },
   {
+    "objectID": "index.html#original-technical-idea-research-level",
+    "href": "index.html#original-technical-idea-research-level",
+    "title": "Winning a 3-Minute Talk",
+    "section": "Original technical idea (research level)",
+    "text": "Original technical idea (research level)\n“We developed a spatio-temporal hierarchical Bayesian model using climatic variables, population density, and lagged incidence data to forecast dengue outbreaks.”"
+  },
+  {
+    "objectID": "index.html#transition-from-technical-detail-to-core-idea-to-public-meaning",
+    "href": "index.html#transition-from-technical-detail-to-core-idea-to-public-meaning",
+    "title": "Winning a 3-Minute Talk",
+    "section": "Transition from Technical Detail to Core Idea to Public Meaning",
+    "text": "Transition from Technical Detail to Core Idea to Public Meaning\n\nImprove research communication (clear explanation)\n\n“We built a model that predicts dengue outbreaks by combining weather data, population information, and past dengue cases.”\n\nImprove clarity of thinking (core idea focus)\n\n“We are trying to answer a simple question: Where and when will dengue outbreaks happen next?”\n\nBridge academia and the public (accessible message)\n\n“This system helps health authorities get early warnings about dengue risk so they can take action before outbreaks spread.”"
+  },
+  {
+    "objectID": "index.html#what-changed",
+    "href": "index.html#what-changed",
+    "title": "Winning a 3-Minute Talk",
+    "section": "What changed?",
+    "text": "What changed?\nRemoved heavy statistical jargon\nFocused on the problem, not the method\nShifted from model details → real-world meaning → societal impact"
+  },
+  {
     "objectID": "index.html#hook",
     "href": "index.html#hook",
     "title": "Winning a 3-Minute Talk",
