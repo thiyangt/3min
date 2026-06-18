@@ -465,6 +465,34 @@ What is important?
 
 What belongs together?
 
+## Gestalt Laws
+
+The Gestalt Laws (or Gestalt Principles) are a set of principles from psychology that explain how people naturally organize and interpret visual information. Rather than seeing individual elements separately, people tend to perceive them as meaningful groups, patterns, or wholes.
+
+Reading: [https://daydreamingnumbers.com/gestalt-laws-data-visualization/](https://daydreamingnumbers.com/gestalt-laws-data-visualization/)
+
+## Why is it important for a 3-Minute Presentation?
+
+The audience has only a few seconds to understand your slide. Gestalt principles help them:
+
+ - Find the important message quickly
+
+ - Understand relationships between ideas
+
+  - Reduce cognitive effort
+
+ - Remember key points more easily
+
+## For a 3MT slide, the most useful principles are:
+
+ - Figure–Ground (make the main message stand out)
+
+ - Proximity (group related information)
+
+ - Similarity (consistent colours and fonts)
+
+ - Continuity (guide the audience through the story)
+
 ## 1. Figure–Ground Principle
 
 People naturally separate:
@@ -475,13 +503,10 @@ The background (ground)
 
 ## 2. Similarity Principle
 
-Objects with similar:
+- Use consistent colours for related concepts. (Red = Problem
+Green = Solution)
 
-Shape
-
-Colour
-
-Size
+- Similarity: Use consistent design elements 
 
 
 ## 3. Continuity Principle
@@ -492,6 +517,18 @@ Design Tip
 
 Use arrows, pathways, or visual flow to guide attention.
 
+## Suggestions for Improving the Slide
+
+
+- Remove unnecessary borders and decorative elements.
+
+
+- Proximity: Group related elements together.
+
 # Presentation Judging Criteria
 
 [https://3mt.ku.edu/3MTRules](https://3mt.ku.edu/3MTRules)
+
+# UQ 3MT competitor guide
+
+[https://threeminutethesis.uq.edu.au/resources/3mt-competitor-guide](https://threeminutethesis.uq.edu.au/resources/3mt-competitor-guide)
