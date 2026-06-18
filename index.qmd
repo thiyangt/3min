@@ -109,6 +109,12 @@ Focused on the problem, not the method
 
 Shifted from model details → real-world meaning → societal impact
 
+## Slightly more advanced alternative
+
+“We built a model that predicts dengue outbreaks by combining weather data, population information, and past dengue cases.”
+
+“We constructed a data-driven spatio-temporal predictive model for dengue outbreak forecasting, incorporating meteorological covariates, demographic structure, and historical case dynamics.”
+
 # First 15 Seconds Matter
 
 - Research shows audiences decide whether to listen within seconds.
@@ -561,3 +567,7 @@ Use arrows, pathways, or visual flow to guide attention.
 # UQ 3MT competitor guide
 
 [https://threeminutethesis.uq.edu.au/resources/3mt-competitor-guide](https://threeminutethesis.uq.edu.au/resources/3mt-competitor-guide)
+
+# How I managed my precious 180 seconds at the 2025 Short Talks, Big Impacts Competition: Insights and strategies from the Jury’s top‑ranked speaker
+
+[https://owsd.net/news/how-i-managed-my-precious-180-seconds-2025-short-talks-big-impacts-competition](https://owsd.net/news/how-i-managed-my-precious-180-seconds-2025-short-talks-big-impacts-competition)

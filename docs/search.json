@@ -35,6 +35,13 @@
     "text": "What changed?\nRemoved heavy statistical jargon\nFocused on the problem, not the method\nShifted from model details → real-world meaning → societal impact"
   },
   {
+    "objectID": "index.html#slightly-more-advanced-alternative",
+    "href": "index.html#slightly-more-advanced-alternative",
+    "title": "Winning a 3-Minute Talk",
+    "section": "Slightly more advanced alternative",
+    "text": "Slightly more advanced alternative\n“We built a model that predicts dengue outbreaks by combining weather data, population information, and past dengue cases.”\n“We constructed a data-driven spatio-temporal predictive model for dengue outbreak forecasting, incorporating meteorological covariates, demographic structure, and historical case dynamics.”"
+  },
+  {
     "objectID": "index.html#hook",
     "href": "index.html#hook",
     "title": "Winning a 3-Minute Talk",
